@@ -17,5 +17,5 @@ again new box will falsh .. now you need to click the boxes in correct sequence 
 
 Game Will show you score for current match and also show you high score.
 Game has 4 boxes with 4 beautiful colours so you can eaisly distinguish between boxes and memorize the flashing sequence.
-it also shows a level. 
+it also shows a level.
 
